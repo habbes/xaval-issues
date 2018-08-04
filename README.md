@@ -1,4 +1,4 @@
-# xaval-issues
+# Xaval issue tracker
 
 This repository is for making feature requests and bug reports for [Xaval](https://xaval.app).
 
